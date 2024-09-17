@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Revati, and I'm an Aspiring Product Manager! 
 
-🔭 I’m currently honing my skills in Digital Product Management while exploring real-world applications of Salesforce and SAP.
+🔭 I’m currently honing my skills in Digital Product Management while exploring real-world applications of Salesforce and SAP.<br>
 🌱 I’m currently learning agile methodologies, product roadmapping, and data-driven decision-making.
 
 
